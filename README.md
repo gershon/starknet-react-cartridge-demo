@@ -2,12 +2,14 @@
 
 react starknet cartridge demo app
 
-## Install
+### Install
 
 ```sh
 yarn
 ```
 
+### Run
+
 ```sh
-yarn
+yarn dev
 ```
