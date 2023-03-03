@@ -1227,15 +1227,6 @@
     "@tanstack/react-query" "^4.3.4"
     immutable "^4.0.0"
 
-"@starknet-react/core@^0.15.1":
-  version "0.15.1"
-  resolved "https://registry.yarnpkg.com/@starknet-react/core/-/core-0.15.1.tgz#e6aa6749230449ba0f1fcd1eda68901459d57d15"
-  integrity sha512-m2Lge8FokDm0Kpja+ZfhoaFm1NgRf3wIraaxHNLuNzo14AuXQaIfXzRssJvSqb7CG747ihle8lxmZj3MIHBrWg==
-  dependencies:
-    "@tanstack/react-query" "^4.3.4"
-    get-starknet-core "^2.0.0"
-    immutable "^4.0.0"
-
 "@swc/helpers@0.4.14":
   version "0.4.14"
   resolved "https://registry.yarnpkg.com/@swc/helpers/-/helpers-0.4.14.tgz#1352ac6d95e3617ccb7c1498ff019654f1e12a74"
@@ -2274,11 +2265,6 @@ get-nonce@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/get-nonce/-/get-nonce-1.0.1.tgz#fdf3f0278073820d2ce9426c18f07481b1e0cdf3"
   integrity sha512-FJhYRoDaiatfEkUK8HKlicmu/3SGFD51q3itKDGoSTysQJBnfOcxU5GxnhE1E6soB76MbT0MBtnKJuXyAx+96Q==
-
-get-starknet-core@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/get-starknet-core/-/get-starknet-core-2.0.0.tgz#2c107982ff3aa3c2dd98586bec8194cc2bfc0d1d"
-  integrity sha512-cpPQrn2/uw1dxn/gpDiVtKrYxyoSkCsrz1mf7CqeyNxcSiiqsHHRNIGyFtqSm2hCduA1kl7ddVugLoTul/oBQQ==
 
 get-symbol-description@^1.0.0:
   version "1.0.0"
@@ -3326,7 +3312,7 @@ split-on-first@^1.0.0:
   resolved "https://registry.yarnpkg.com/split-on-first/-/split-on-first-1.1.0.tgz#f610afeee3b12bce1d0c30425e76398b78249a5f"
   integrity sha512-43ZssAJaMusuKWL8sKUBQXHWOpq8d6CfN/u1p4gUzfJkM05C8rxTmYrkIPTXapZpORA6LkkzcUulJ8FqA7Uudw==
 
-starknet@^4.17.1, starknet@^4.22.0:
+starknet@^4.17.1:
   version "4.22.0"
   resolved "https://registry.yarnpkg.com/starknet/-/starknet-4.22.0.tgz#8d0c628e2a8e868ee9b4757afe89f07b05ec55ff"
   integrity sha512-jC9Taxb6a/ht9zmS1LU/DSLfwJKpgCJnE9AktVksc5SE/+jQMpqxsq6fm7PRiqupjiqRC1DOS8N47cj+KaGv4Q==
